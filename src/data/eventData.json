@@ -1,0 +1,46 @@
+{
+    "weddingSlides": [
+        {
+            "src": "https://i.imgur.com/4cxhtey.jpg",
+            "alt": "wedding1"
+        },
+        {
+            "src": "https://i.imgur.com/7nS69Go.jpg",
+            "alt": "wedding3"
+        },
+        {
+            "src": "https://i.imgur.com/H9sHFrm.jpg",
+            "alt": "wedding3"
+        }
+    ],
+
+    "fundraiserSlides": [
+        {
+            "src": "",
+            "alt": ""
+        },
+        {
+            "src": "",
+            "alt": ""
+        },
+        {
+            "src": "",
+            "alt": ""
+        }
+    ],
+
+    "partySlides": [
+        {
+            "src": "",
+            "alt": ""
+        },
+        {
+            "src": "",
+            "alt": ""
+        },
+        {
+            "src": "",
+            "alt": ""
+        }
+    ]
+}
