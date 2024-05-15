@@ -1,3 +1,5 @@
+import '../assets/styles/about.css'
+
 // TODO:
 // Styling
 

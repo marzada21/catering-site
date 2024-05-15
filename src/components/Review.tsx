@@ -1,6 +1,6 @@
 function Review() {
   return (
-    <div id="reviews">Review</div>
+    <div>Review</div>
   )
 }
 

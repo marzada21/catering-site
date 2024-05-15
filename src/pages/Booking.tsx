@@ -7,7 +7,7 @@ import BookingForm from "../components/BookingForm"
 function Booking() {
   return (
     <>
-        <div className="booking-container" id="#book">
+        <div className="booking-container" id="book">
             <p className="booking-info">
                 Welcome to Epicure Catering! 
                 Let us elevate your event with exquisite cuisine and exceptional service. 

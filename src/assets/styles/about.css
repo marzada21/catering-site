@@ -1,0 +1,19 @@
+.about-container {
+    border: 1px solid red;
+    height: 600px;
+    background-image: url('../images/ab-bg.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 0;
+}
+
+.about {
+    height: 600px;
+    font-size: 40px;
+    color: white;
+    backdrop-filter: blur(5px);
+    text-align: center;
+    display: flex;
+    align-self: center;
+}

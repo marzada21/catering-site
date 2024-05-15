@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Reddit+Sans:ital,wght@0,200..900;1,200..900&display=swap');
+
+.landing-container {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(245, 245, 245);
+    color: rgb(41, 41, 41);
+
+    font-family: "Reddit Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.landing-left-container {
+    /* border: 1px solid red; */
+    width: 60%;
+    height: 75vh;
+    text-align: center;
+    font-style: italic;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-right: 10%;
+}
+
+.landing-right-container {
+    background-color: rgba(127, 146, 127, 0.288);
+    width: 50%;
+    height: 75vh;
+}
+
+.landing-img-container {
+    height: inherit;
+    width: inherit;
+    padding: 0;
+
+    display: grid;
+    grid-template-rows: repeat(3, 1fr);
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.title {
+    font-size: 60px;
+    font-weight: 400;
+}
+
+.sub-title {
+    font-size: 28px;
+    font-weight: 300;
+}
+
+.btn-to-booking {
+    margin: 60px;
+    width: 280px;
+    height: 60px;
+    font-size: 22px;
+    padding: 0;
+    font-style: italic;
+    background-color: rgb(127, 146, 127);
+    color: rgb(240, 240, 240);
+    border: none;
+    box-shadow: 1px 1px 5px rgb(60, 68, 60);
+    cursor: pointer;
+
+    transition: transform 0.2s ease;
+}
+
+.btn-to-booking:active {
+    transform: scale(0.95);
+}
+
+.link-to-book {
+    color: rgb(240, 240, 240);
+    text-decoration: none;
+}

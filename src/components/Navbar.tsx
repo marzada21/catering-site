@@ -1,7 +1,6 @@
 import '../assets/styles/navbar.css';
 
 // TODO:
-// Ensure functionality
 // Finalize Styling
 
 function Navbar() {
